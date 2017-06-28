@@ -1,10 +1,9 @@
 package com.example.fangfang.wuziqi;
 
 import android.content.DialogInterface;
-import android.graphics.Paint;
+import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.view.Window;
 import android.view.WindowManager;
 
